@@ -1,3 +1,5 @@
 # Dummy repository
 
-A new dummy repository.
+This is a new dummy repository.
+
+## A new file
